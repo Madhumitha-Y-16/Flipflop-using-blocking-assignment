@@ -115,7 +115,8 @@ endmodule
 
 #### SIMULATION OUTPUT
 
-------- paste the output here -------
+<img width="1920" height="1080" alt="tff" src="https://github.com/user-attachments/assets/c613c4ac-ab76-46b5-af17-abc0e697fab3" />
+
 
 ---
 
